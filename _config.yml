@@ -1,2 +1,3 @@
 name: John Zhangninesun, Nju
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
